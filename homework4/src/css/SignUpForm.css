@@ -1,0 +1,36 @@
+#form {
+  border: 1px solid grey;
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  height: 300px;
+  padding: 15px;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
+
+#form input {
+  width: 220px;
+  padding: 5px;
+}
+
+#form-submit {
+  margin-top: 35px;
+}
+#submit-btn {
+  padding: 5px;
+  font-weight: bold;
+  color: rgb(66, 66, 66);
+}
+.signUp-data-table {
+  margin: auto;
+  border: 1px solid grey;
+}
+
+.signUp-data-table th,
+td {
+  border: 1px solid grey;
+  width: 250px;
+  text-align: center;
+}
