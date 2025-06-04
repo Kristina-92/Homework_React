@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "author": "Filip",
+      "post": "Hello, this is a sample post."
+    },
+    {
+      "id": 2,
+      "author": "Test",
+      "post": "This is another post."
+    }
+  ]
+}
